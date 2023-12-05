@@ -50,7 +50,7 @@ h6 {
 font-weight: 300;
     letter-spacing: 0.4px;
     font-family: "Open Sans", Sans-serif;
-    color: #012030;
+    color: #41311F;
 }
 
 p {
@@ -460,7 +460,7 @@ figure.effect-bubba:hover p {
 --------------------*/
 
 .dark-bg {
-    background: #9AEBA3;
+    background: ##5579C6;
     color: #fff;
 }
 
@@ -706,7 +706,7 @@ font-size: 11px;
 
 .btn-xl {
     color: #fff;
-     background-color: #45C4B0;
+     background-color: ##124429;
     border-color: #45C4B0;
     font-family: "Robot",sans-serif;
     text-transform: uppercase;
